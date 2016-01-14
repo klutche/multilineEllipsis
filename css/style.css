@@ -75,7 +75,7 @@ p.ellipsis:before, p.ellipsis:after {
 
 p.ellipsis:before {
 	content: "･･･";
-	top: 60px;
+	bottom: 0;
 	right: 0;
 }
 
